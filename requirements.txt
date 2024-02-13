@@ -6,4 +6,4 @@ st_annotated_text
 streamlit
 streamlit_chat
 streamlit_folium
-pyaudio
+PyAudio
