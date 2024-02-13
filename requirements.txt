@@ -7,4 +7,4 @@ st_annotated_text
 streamlit
 streamlit_chat
 streamlit_folium
-PyAudio
+PyAudio==3.8.1
