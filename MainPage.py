@@ -1,6 +1,9 @@
 # #import libraries
 import streamlit as st
 # import pandas as pd
+import os
+os.system("pip install pipwin")
+os.system("pipwin install pyaudio")
 
 
 st.set_page_config(page_title="WELCOME", page_icon='🎙️', layout="wide")
